@@ -1,0 +1,12 @@
+Data sources for scene.html (all openly licensed):
+
+- Brain, brainstem, cerebellum, vertebrae, spinal cord canal meshes:
+  BodyParts3D, (c) The Database Center for Life Science (DBCLS),
+  licensed under CC Attribution-Share Alike 2.1 Japan.
+  Via github.com/Kevin-Mattheus-Moerman/BodyParts3D
+
+- Neuron morphology (cnic_001): NeuroMorpho.org (Wearne_Hof archive),
+  a reconstruction from light microscopy. Freely available for research/education.
+
+- Myelinated axon: built to a labelled anatomy reference (not downloaded);
+  a regular structure specified by textbook cross-section + longitudinal diagrams.
