@@ -28,7 +28,8 @@ The MIT terms above cover the code in this repository. Bundled and derived
 material carries its own terms, which the MIT licence does not override:
 
 1. three.min.js
-   three.js, Copyright (c) 2010-2026 three.js authors. MIT License.
+   three.js (revision 128), Copyright 2010-2021 Three.js Authors.
+   MIT License. SPDX-License-Identifier: MIT
    https://github.com/mrdoob/three.js
 
 2. Anatomy geometry (brain, brainstem, cerebellum, vertebrae, spinal canal)
@@ -40,9 +41,28 @@ material carries its own terms, which the MIT licence does not override:
    The point-cloud data in index.html is an adaptation of those meshes and is
    therefore distributed under the same CC BY-SA 2.1 JP terms.
 
-3. Neuron morphology (reconstruction cnic_001)
-   NeuroMorpho.org, Wearne_Hof archive. Freely available for research and
-   educational use, with attribution.
+3. Neuron morphology (reconstruction cnic_001, Wearne_Hof archive)
+   A macaque (Macaca) prefrontal cortex layer 3 pyramidal neuron, obtained from
+   NeuroMorpho.Org and licensed under Creative Commons Attribution 4.0
+   International (CC BY 4.0). Commercial use is permitted with attribution.
+   https://creativecommons.org/licenses/by/4.0/
 
-See ATTRIBUTION.txt for the same notices in the form they were recorded during
-the build.
+   NeuroMorpho.Org requires all three of the following citations:
+
+   - Duan H, Wearne SL, Rocher AB, Macedo A, Morrison JH, Hof PR (2003).
+     Age-related dendritic and spine changes in corticocortically projecting
+     neurons in macaque monkeys. Cerebral Cortex 13(9):950-961.
+     https://doi.org/10.1093/cercor/13.9.950
+
+   - NeuroMorpho.Org (RRID:SCR_002145)
+
+   - Tecuatl C, Ljungquist B, Ascoli GA (2024). Accelerating the continuous
+     community sharing of digital neuromorphology data. FASEB BioAdvances
+     6(7):207-221. https://doi.org/10.1096/fba.2024-00048
+
+4. Myelinated axon geometry
+   Not derived from any downloaded dataset. Generated procedurally to match a
+   labelled textbook anatomy reference, so no third-party terms apply.
+
+ATTRIBUTION.txt records the same sources in the shorter form used during the
+build.

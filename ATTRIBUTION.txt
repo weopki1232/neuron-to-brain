@@ -1,12 +1,25 @@
-Data sources for scene.html (all openly licensed):
+Data sources for index.html (all openly licensed):
 
 - Brain, brainstem, cerebellum, vertebrae, spinal cord canal meshes:
   BodyParts3D, (c) The Database Center for Life Science (DBCLS),
   licensed under CC Attribution-Share Alike 2.1 Japan.
   Via github.com/Kevin-Mattheus-Moerman/BodyParts3D
+  The point cloud derived from these meshes carries the same CC BY-SA 2.1 JP
+  terms.
 
-- Neuron morphology (cnic_001): NeuroMorpho.org (Wearne_Hof archive),
-  a reconstruction from light microscopy. Freely available for research/education.
+- Neuron morphology (cnic_001): NeuroMorpho.Org (RRID:SCR_002145),
+  Wearne_Hof archive, a macaque prefrontal layer 3 pyramidal cell
+  reconstructed from light microscopy. Licensed CC BY 4.0.
+  Cite all three:
+    Duan H, Wearne SL, Rocher AB, Macedo A, Morrison JH, Hof PR (2003).
+      Cerebral Cortex 13(9):950-961.  doi:10.1093/cercor/13.9.950
+    NeuroMorpho.Org (RRID:SCR_002145)
+    Tecuatl C, Ljungquist B, Ascoli GA (2024).
+      FASEB BioAdvances 6(7):207-221.  doi:10.1096/fba.2024-00048
 
 - Myelinated axon: built to a labelled anatomy reference (not downloaded);
   a regular structure specified by textbook cross-section + longitudinal diagrams.
+
+- three.js r128, (c) 2010-2021 Three.js Authors, MIT License.
+
+Full licence terms and the complete required-citation list: see LICENSE.
